@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="106.14.136.249" id="d3935096-1ab0-4c8a-a3d3-9ac468ea7908" port="22" customName="ali" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="ali" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

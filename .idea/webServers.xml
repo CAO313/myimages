@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7240c897-06eb-481f-b0be-c62c548f85f4" name="ali" url="http://106.14.136.249">
+        <fileTransfer accessType="SFTP" host="106.14.136.249" port="22" sshConfigId="d3935096-1ab0-4c8a-a3d3-9ac468ea7908" sshConfig="ali">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
