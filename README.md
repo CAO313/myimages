@@ -1,7 +1,7 @@
 # myimages-web
 本vue项目主要参考@liyupi的开源项目
 对功能加以改动和增加<br>
-项目后端开源地址<br>
+项目后端开源地址https://github.com/CAO313/myimages-backend<br>
 网站访问链接http://106.14.136.249/<br>
 ## 技术栈
 
