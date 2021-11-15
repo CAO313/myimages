@@ -1,3 +1,5 @@
+本vue项目主要参考@liyupi的开源项目
+对功能加以改动和增加
 ## 技术栈
 
 - 框架：Vue 3
@@ -9,28 +11,3 @@
 - 图像合成：Html2Canvas
 - 文件下载：FileSaver
 - 颜色选择器：Vue3 Picker
-
-## 项目启动
-
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-
-```
-yarn build
-```
-
-### Lints and fixes files
-
-```
-yarn lint
-```
-
